@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://i.pinimg.com/736x/c6/d4/5f/c6d45f621d5486e5e24b04dc75293d4f.jpg"
-#featuredImage: "https://i.pinimg.com/736x/9a/64/e9/9a64e932915de2e6d83c3874c310f485.jpg"
-#featured_image: "http://houspire.com/wp-content/uploads/2018/01/Gaming-Room-Ideas-5.jpg"
+featuredImage: "https://i.pinimg.com/736x/9a/64/e9/9a64e932915de2e6d83c3874c310f485.jpg"
+featured_image: "http://houspire.com/wp-content/uploads/2018/01/Gaming-Room-Ideas-5.jpg"
 image: "https://i.pinimg.com/originals/83/12/77/8312775f20d0587d0c031799c102c637.jpg"
 ---
 

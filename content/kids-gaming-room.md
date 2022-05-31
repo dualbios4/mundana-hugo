@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://cdn3.jysk.com/getimage/wd2.large/72257"
-#featuredImage: "https://i.pinimg.com/736x/6d/54/ef/6d54ef31fc8fcb92fc24032db8f8c380.jpg"
-#featured_image: "https://i.pinimg.com/736x/62/3e/0a/623e0a629343b6dccc89720dcfcf1cd7.jpg"
+featuredImage: "https://i.pinimg.com/736x/6d/54/ef/6d54ef31fc8fcb92fc24032db8f8c380.jpg"
+featured_image: "https://i.pinimg.com/736x/62/3e/0a/623e0a629343b6dccc89720dcfcf1cd7.jpg"
 image: "https://i.pinimg.com/736x/42/3d/58/423d5853b97ef4ffe658895b262a4077.jpg"
 ---
 

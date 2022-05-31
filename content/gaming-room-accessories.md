@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://i.pinimg.com/736x/96/d2/fe/96d2fe6f91547ad51f22dadcdc3515e5.jpg"
-#featuredImage: "http://nextluxury.com/wp-content/uploads/billiard-room-decor-ideas-basement.jpg"
-#featured_image: "https://i.pinimg.com/736x/fb/ae/5c/fbae5c3ee84689918ce4c1a14ca30a94.jpg"
+featuredImage: "http://nextluxury.com/wp-content/uploads/billiard-room-decor-ideas-basement.jpg"
+featured_image: "https://i.pinimg.com/736x/fb/ae/5c/fbae5c3ee84689918ce4c1a14ca30a94.jpg"
 image: "https://i.pinimg.com/736x/fb/ae/5c/fbae5c3ee84689918ce4c1a14ca30a94.jpg"
 ---
 

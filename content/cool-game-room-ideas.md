@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://hative.com/wp-content/uploads/2018/03/video-game-room-ideas/6-video-game-room-ideas.jpg"
-#featuredImage: "https://i.pinimg.com/736x/b8/a0/bb/b8a0bba2b2ff2bc6b8c14b3b5ed98c77.jpg"
-#featured_image: "https://i.pinimg.com/736x/66/e8/70/66e870130ad8af74dd7cca8522cea892.jpg"
+featuredImage: "https://i.pinimg.com/736x/b8/a0/bb/b8a0bba2b2ff2bc6b8c14b3b5ed98c77.jpg"
+featured_image: "https://i.pinimg.com/736x/66/e8/70/66e870130ad8af74dd7cca8522cea892.jpg"
 image: "https://www.avso.org/wp-content/uploads/2014/11/10-billiard-room-decoration-ideas-game-room-for-adults-1415265811.jpg"
 ---
 

@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://i.pinimg.com/736x/0d/5f/cc/0d5fccff6cf814ba491ede97ee55e7f8.jpg"
-#featuredImage: "https://i.pinimg.com/736x/0d/5f/cc/0d5fccff6cf814ba491ede97ee55e7f8.jpg"
-#featured_image: "https://i.pinimg.com/736x/e3/eb/84/e3eb8469a0bc1a2e3165a1fd735b9808.jpg"
+featuredImage: "https://i.pinimg.com/736x/0d/5f/cc/0d5fccff6cf814ba491ede97ee55e7f8.jpg"
+featured_image: "https://i.pinimg.com/736x/e3/eb/84/e3eb8469a0bc1a2e3165a1fd735b9808.jpg"
 image: "http://www.lexiconlighting.com/wp-content/uploads/2016/04/Reception-Area-2.jpg"
 ---
 

@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://images.designtrends.com/wp-content/uploads/2016/10/04201206/Tiny-Laundry-Room-Design.jpeg"
-#featuredImage: "http://www.digsdigs.com/photos/marble-inspired-basement-bathroom-decor.jpg"
-#featured_image: "https://images.designtrends.com/wp-content/uploads/2016/10/04201206/Tiny-Laundry-Room-Design.jpeg"
+featuredImage: "http://www.digsdigs.com/photos/marble-inspired-basement-bathroom-decor.jpg"
+featured_image: "https://images.designtrends.com/wp-content/uploads/2016/10/04201206/Tiny-Laundry-Room-Design.jpeg"
 image: "https://i.pinimg.com/736x/c4/cd/73/c4cd7337bafecc7376879f0d0edc6ee6.jpg"
 ---
 

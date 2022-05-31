@@ -6,9 +6,10 @@ categories:
 - "Gaming Room"
 images:
 - "https://i.pinimg.com/736x/01/57/82/0157825af80eb791f356a8b7b7bfe950.jpg"
-#featuredImage: "http://datafortress2020.com/P3250027.JPG"
-#featured_image: "https://i.pinimg.com/736x/25/7f/9a/257f9adfa2240de1631265f23f35b272.jpg"
+featuredImage: "http://datafortress2020.com/P3250027.JPG"
+featured_image: "https://i.pinimg.com/736x/25/7f/9a/257f9adfa2240de1631265f23f35b272.jpg"
 image: "https://i.pinimg.com/736x/1b/fc/c1/1bfcc14745ae75062579ae12c5b0d938.jpg"
+author: "Bajak laut"
 ---
 
 If you are looking for Asus ROG STRIX HELIOS WHITE rogstrixhelioswhite Rog Strix Helios Gx601 you've came to the right web. We have 9 Images about Asus ROG STRIX HELIOS WHITE rogstrixhelioswhite Rog Strix Helios Gx601 like zodiaco bnha - :v | Gamer room decor, Gamer room, Otaku room, galaxy room | Room themes, Neon room, Aesthetic room decor and also galaxy room | Room themes, Neon room, Aesthetic room decor. Read more:

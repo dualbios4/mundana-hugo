@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "http://wallpaperswide.com/download/purple_room-wallpaper-1920x1200.jpg"
-#featuredImage: "https://nowrevolutionbook.com/wp-content/uploads/2020/03/video-game-room-ideas-30.jpg"
-#featured_image: "http://wallpaperswide.com/download/purple_room-wallpaper-1920x1200.jpg"
+featuredImage: "https://nowrevolutionbook.com/wp-content/uploads/2020/03/video-game-room-ideas-30.jpg"
+featured_image: "http://wallpaperswide.com/download/purple_room-wallpaper-1920x1200.jpg"
 image: "https://cdn7.dissolve.com/p/D538_291_059/D538_291_059_1200.jpg"
 ---
 

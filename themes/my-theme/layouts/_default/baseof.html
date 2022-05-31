@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html>
-    <head>
-    {{- partial "head.html" . -}}
-    </head>
-    <body class=" homefirstpage ">
+<html prefix="og: http://ogp.me/ns#" lang="{{ .Language }}">
+<head itemscope itemtype="https://schema.org/WebPage">  <!-- Use the correct itemtype for your website https://schema.org/CreativeWork#subtypes -->
+     {{- partial "head.html" . -}}
+</head>
+    <body>
         {{- partial "header.html" . -}}
-        <div id="content">
+
         {{- block "main" . }}{{- end }}
         </div>
         {{- partial "footer.html" . -}}

@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://cdn.architecturendesign.net/wp-content/uploads/2015/12/AD-Attic-Living-Space-Design-17.jpg"
-#featuredImage: "https://i.pinimg.com/736x/c1/f2/1c/c1f21c800894f0c1fdf61126d5574bc1--gaming.jpg"
-#featured_image: "https://cdn.architecturendesign.net/wp-content/uploads/2015/12/AD-Attic-Living-Space-Design-17.jpg"
+featuredImage: "https://i.pinimg.com/736x/c1/f2/1c/c1f21c800894f0c1fdf61126d5574bc1--gaming.jpg"
+featured_image: "https://cdn.architecturendesign.net/wp-content/uploads/2015/12/AD-Attic-Living-Space-Design-17.jpg"
 image: "https://i.pinimg.com/736x/c1/f2/1c/c1f21c800894f0c1fdf61126d5574bc1--gaming.jpg"
 ---
 

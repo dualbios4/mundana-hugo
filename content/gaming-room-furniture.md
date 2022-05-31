@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://i.pinimg.com/736x/0b/c1/b6/0bc1b696ea8b4c6a0865f89cdaaf984f.jpg"
-#featuredImage: "https://i.pinimg.com/736x/40/c3/21/40c321c14b1b1254ef9bc85b59f727f8--small-game-rooms-small-game-room-ideas.jpg"
-#featured_image: "https://i.pinimg.com/736x/a3/f0/8a/a3f08a1c31441bd3bc3d544de2beb8e2.jpg"
+featuredImage: "https://i.pinimg.com/736x/40/c3/21/40c321c14b1b1254ef9bc85b59f727f8--small-game-rooms-small-game-room-ideas.jpg"
+featured_image: "https://i.pinimg.com/736x/a3/f0/8a/a3f08a1c31441bd3bc3d544de2beb8e2.jpg"
 image: "https://walyou.com/wp-content/uploads/2017/01/best-super-mario-furniture-Super-Luca-Nintendo-Room-Donkey-Kong-Shelves.jpg"
 ---
 

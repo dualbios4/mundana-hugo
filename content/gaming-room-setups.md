@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://i.pinimg.com/736x/40/77/1a/40771a64651db080408673f18c516584.jpg"
-#featuredImage: "https://i.pinimg.com/736x/58/1a/58/581a581b2b8502c817315be5fcca33c1.jpg"
-#featured_image: "https://i.pinimg.com/736x/b5/99/0b/b5990b276492b4d64c99b756350fe03a.jpg"
+featuredImage: "https://i.pinimg.com/736x/58/1a/58/581a581b2b8502c817315be5fcca33c1.jpg"
+featured_image: "https://i.pinimg.com/736x/b5/99/0b/b5990b276492b4d64c99b756350fe03a.jpg"
 image: "https://i.pinimg.com/736x/b5/99/0b/b5990b276492b4d64c99b756350fe03a.jpg"
 ---
 

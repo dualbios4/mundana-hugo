@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://i.pinimg.com/736x/6e/47/ed/6e47ed8eda3264153cddb60a9ce484b0.jpg"
-#featuredImage: "http://homemydesign.com/wp-content/uploads/2016/06/pretty-video-game-room-with-more-screens.jpg"
-#featured_image: "https://i.pinimg.com/736x/6e/47/ed/6e47ed8eda3264153cddb60a9ce484b0.jpg"
+featuredImage: "http://homemydesign.com/wp-content/uploads/2016/06/pretty-video-game-room-with-more-screens.jpg"
+featured_image: "https://i.pinimg.com/736x/6e/47/ed/6e47ed8eda3264153cddb60a9ce484b0.jpg"
 image: "https://i.ytimg.com/vi/PxWrVFsaJMI/maxresdefault.jpg"
 ---
 

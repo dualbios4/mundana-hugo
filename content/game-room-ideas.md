@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://i.pinimg.com/736x/27/fc/01/27fc0172609241b6ccbe495a67a0eb5b.jpg"
-#featuredImage: "https://i.pinimg.com/736x/27/fc/01/27fc0172609241b6ccbe495a67a0eb5b.jpg"
-#featured_image: "https://i.pinimg.com/736x/27/fc/01/27fc0172609241b6ccbe495a67a0eb5b.jpg"
+featuredImage: "https://i.pinimg.com/736x/27/fc/01/27fc0172609241b6ccbe495a67a0eb5b.jpg"
+featured_image: "https://i.pinimg.com/736x/27/fc/01/27fc0172609241b6ccbe495a67a0eb5b.jpg"
 image: "https://hative.com/wp-content/uploads/2014/05/basement-wall-ideas/6-photo-wall-basement.jpg"
 ---
 

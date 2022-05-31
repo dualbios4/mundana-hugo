@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://i.pinimg.com/736x/b3/67/c9/b367c97d1f7ea6b4ad51c5b61a50bb79--pc-setup-gaming-setup.jpg"
-#featuredImage: "https://i.pinimg.com/736x/85/1e/4d/851e4d6eda7aaf2aceb141cbc0f2643c.jpg"
-#featured_image: "https://i.pinimg.com/736x/85/1e/4d/851e4d6eda7aaf2aceb141cbc0f2643c.jpg"
+featuredImage: "https://i.pinimg.com/736x/85/1e/4d/851e4d6eda7aaf2aceb141cbc0f2643c.jpg"
+featured_image: "https://i.pinimg.com/736x/85/1e/4d/851e4d6eda7aaf2aceb141cbc0f2643c.jpg"
 image: "https://i.pinimg.com/736x/c9/05/7f/c9057fa09a155840d2291d722f19dbb1.jpg"
 ---
 

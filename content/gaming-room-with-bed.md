@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://ae01.alicdn.com/kf/HTB1pKvLQVXXXXanaXXXq6xXFXXXl/Modern-V-Shape-Aluminum-Triangle-Wall-Light-For-Indoor-Decoration-Living-room-Bed-room-Corridor-6W.jpg"
-#featuredImage: "https://i.pinimg.com/736x/d9/62/eb/d962ebd273e014919f2ea85d929b279b.jpg"
-#featured_image: "https://i.pinimg.com/736x/8a/9b/71/8a9b71aa9aec69ed9be04f40d578c17a.jpg"
+featuredImage: "https://i.pinimg.com/736x/d9/62/eb/d962ebd273e014919f2ea85d929b279b.jpg"
+featured_image: "https://i.pinimg.com/736x/8a/9b/71/8a9b71aa9aec69ed9be04f40d578c17a.jpg"
 image: "https://www.designideasguide.com/wp-content/uploads/2019/04/Video-Gamer-Bedroom-with-Cool-Decorating-Ideas.jpg"
 ---
 

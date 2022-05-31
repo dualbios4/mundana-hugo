@@ -6,8 +6,8 @@ categories:
 - "Gaming Room"
 images:
 - "https://i.ytimg.com/vi/NeESf9aCZHQ/maxresdefault.jpg"
-#featuredImage: "https://i.pinimg.com/736x/4b/10/4d/4b104dbc0cf89c79aa54a7bfd4670214.jpg"
-#featured_image: "https://virtualbackgrounds.site/wp-content/uploads/2020/07/stylish-living-room-1024x576.jpg"
+featuredImage: "https://i.pinimg.com/736x/4b/10/4d/4b104dbc0cf89c79aa54a7bfd4670214.jpg"
+featured_image: "https://virtualbackgrounds.site/wp-content/uploads/2020/07/stylish-living-room-1024x576.jpg"
 image: "https://virtualbackgrounds.site/wp-content/uploads/2020/07/stylish-living-room-1024x576.jpg"
 ---
 
